@@ -66,9 +66,7 @@ This project uses the following libraries:
 └── package-lock.json
 └── package.json
 └── README.md
-└── vite.config.js
-
-less
-Salin kode
+└── vite.config.j
 
 ## Website URL
+https://mystories-gamma.vercel.app/
